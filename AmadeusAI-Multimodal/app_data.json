@@ -1,0 +1,15 @@
+{
+    "settings": {
+        "user_name": "User",
+        "character_name": "Bot",
+        "character_traits": "",
+        "voice": "Woman",
+        "theme": "#1e1e1e",
+        "side_theme": "#2c2c2c",
+        "button_theme": "#444",
+        "bubble_color": "#800080",
+        "fg_color": "white",
+        "speaker": "Claribel Dervla"
+    },
+    "conversations": {}
+}
